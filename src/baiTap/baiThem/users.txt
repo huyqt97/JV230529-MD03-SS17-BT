@@ -1,0 +1,3 @@
+User{id=1, username='Tran linh', password='Aa123456', status=true}
+User{id=2, username='Đặng Thùy', password='Aa123456', status=true}
+User{id=3, username='Văn Đặng', password='Aa123456', status=true}
